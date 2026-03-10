@@ -1,7 +1,7 @@
 # About Me:
-I’m currently in my 6th semester studying Computer Science (Informatics) at the University of Vienna with a focus on Data Science.<br>
-I’m passionate about Software Engineering, Data Science, and Machine Learning — I love building efficient, data-driven solutions that make a real-world impact.<br>
-I’m currently looking for opportunities in software development, data science, or related fields where I can apply my skills and continue growing.
+- I’m currently in my 6th semester studying Computer Science (Informatics) at the University of Vienna with a focus on Data Science.<br>
+- I’m passionate about Software Engineering, Data Science, and Machine Learning - I love building efficient, data-driven solutions that make a real-world impact.<br>
+- I’m currently looking for opportunities in software development, data science, or related fields where I can apply my skills and continue growing.
 
 
 ## 🌐 Socials:
